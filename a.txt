@@ -3,3 +3,4 @@ the second line
 the thrid line
 Creating a new branch 'dev'
 Creating a new branch is quick AND simple.
+insert sixth line;
