@@ -5,3 +5,5 @@ Creating a new branch 'dev'
 Creating a new branch is quick AND simple.
 insert sixth line;
 add seventh line
+
+add 9th line.
